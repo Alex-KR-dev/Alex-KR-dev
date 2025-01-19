@@ -51,4 +51,11 @@ I’m always eager to collaborate, discuss ideas, or contribute to exciting proj
 - **Portfolio**: https://x.com/aleki911(#)  
 - **LinkedIn**: (#)  
 - **GitHub**: Alex-KR-dev(#)  
-- **Email**: alexrotichke@gmail.com(#)  
+- **Email**: alexrotichke@gmail.com(#)
+
+- ## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-KR-dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-KR-dev&layout=compact&theme=radical)
+
