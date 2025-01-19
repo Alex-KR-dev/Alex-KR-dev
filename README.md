@@ -48,7 +48,7 @@ Passionate about crafting scalable web applications and exploring the limitless 
 
 ### 📫 **Let’s Connect!**  
 I’m always eager to collaborate, discuss ideas, or contribute to exciting projects!  
-- **Portfolio**: [YourPortfolioLink](#)  
-- **LinkedIn**: [YourLinkedInProfile](#)  
-- **GitHub**: [YourGitHubUsername](#)  
-- **Email**: [YourEmail](#)  
+- **Portfolio**: https://x.com/aleki911(#)  
+- **LinkedIn**: (#)  
+- **GitHub**: Alex-KR-dev(#)  
+- **Email**: alexrotichke@gmail.com(#)  
